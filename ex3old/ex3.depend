@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385316878 source:z:\computing_project\week2\ex3\main.cpp
+	<iostream>
+
+1510225387 source:z:\computing_project\week2\ex3\adder.cpp
+	"adder.h"
+
+1510225414 z:\computing_project\week2\ex3\adder.h
+
