@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/zty/nottingham/normal/year2/H62PEP/exe-week2/calc_cmake/adder.cpp
+adder.h
+D:/zty/nottingham/normal/year2/H62PEP/exe-week2/calc_cmake/adder.h
+
+D:/zty/nottingham/normal/year2/H62PEP/exe-week2/calc_cmake/adder.h
+

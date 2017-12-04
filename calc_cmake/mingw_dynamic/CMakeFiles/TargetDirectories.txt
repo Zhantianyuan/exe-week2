@@ -1,0 +1,4 @@
+D:/zty/nottingham/normal/year2/H62PEP/exe-week2/calc_cmake/mingw_dynamic/CMakeFiles/rebuild_cache.dir
+D:/zty/nottingham/normal/year2/H62PEP/exe-week2/calc_cmake/mingw_dynamic/CMakeFiles/maths.dir
+D:/zty/nottingham/normal/year2/H62PEP/exe-week2/calc_cmake/mingw_dynamic/CMakeFiles/calc.dir
+D:/zty/nottingham/normal/year2/H62PEP/exe-week2/calc_cmake/mingw_dynamic/CMakeFiles/edit_cache.dir
